@@ -1,0 +1,19 @@
+'''     COMENTÁRIOS
+
+    "__init__", é um método especial (método construtor) de uma classe. Ele é executado automaticamente quando você cria um objeto dessa classe.
+    "__str__", método especial de classes, Ele serve para definir como o objeto será exibido em texto.
+    "Self", representa “esse objeto aqui” que está sendo usado.
+    "sum()", é responsavel pela soma.
+    "round()", é responsavel para arredondar números.
+
+    "@property", transforma um método em um atributo acessável como se fosse variável.
+    "@classmethod", É um método que trabalha com a classe, não com o objeto.
+
+    ".lower", Usa todas as letras Minúsculas.
+    ".upper", Usa todas as letras em Maiúsculo.
+    ".title", Usa a primeira letra em Maiúsculas.
+
+
+
+
+'''
